@@ -32,7 +32,7 @@
   ],
   "peerDependencies": {
     "next": "^13.0 || ^14.0",
-    "superjson": "^1 | ^2"
+    "superjson": "^2"
   },
   "dependencies": {
     "hoist-non-react-statics": "^3.3.2"
