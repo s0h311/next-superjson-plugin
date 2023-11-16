@@ -1,6 +1,6 @@
 {
   "name": "next-superjson2",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Fork of Next-SuperJSON-Plugin that is compatible with SuperJSON v2",
   "author": "JH.Lee <contact@jins.dev>",
   "homepage": "https://github.com/s0h311/next-superjson-plugin#readme",
