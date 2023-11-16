@@ -1,4 +1,4 @@
-<h1 align="middle">Fork of Next-Superjson-Plugin that is compatible with SuperJson v2</h1>
+<h1 align="middle">Fork of Next-SuperJSON-Plugin that is compatible with SuperJSON v2</h1>
 <h2 align="middle"> Next SuperJSON Plugin</h2>
 <h3 align="middle">🔌 SuperJSON Plugin for Next.js (SWC)</h3>
 
