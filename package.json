@@ -1,12 +1,12 @@
 {
   "name": "next-superjson2",
   "version": "0.6.0",
-  "description": "Automatically transform your Next.js Pages to use SuperJSON with SWC",
+  "description": "Fork of Next-SuperJSON-Plugin that is compatible with SuperJSON v2",
   "author": "JH.Lee <contact@jins.dev>",
-  "homepage": "https://github.com/blitz-js/next-superjson-plugin#readme",
+  "homepage": "https://github.com/s0h311/next-superjson-plugin#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/blitz-js/next-superjson-plugin.git"
+    "url": "https://github.com/s0h311/next-superjson-plugin.git"
   },
   "bugs": {
     "url": "https://github.com/blitz-js/next-superjson-plugin/issues",

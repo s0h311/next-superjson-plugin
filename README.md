@@ -1,4 +1,5 @@
-<h1 align="middle"> Next SuperJSON Plugin</h1>
+<h1 align="middle">Fork of Next-Superjson-Plugin that is compatible with SuperJson v2</h1>
+<h2 align="middle"> Next SuperJSON Plugin</h2>
 <h3 align="middle">🔌 SuperJSON Plugin for Next.js (SWC)</h3>
 
 ### /pages (Pages Directory)
@@ -39,9 +40,9 @@ export default function ServerComponent() {
 Install packages first:
 
 ```sh
-npm install superjson next-superjson-plugin
+npm install superjson next-superjson2
 # or Yarn
-yarn add superjson next-superjson-plugin
+yarn add superjson next-superjson2
 ```
 
 Add the plugin into `next.config.js`
@@ -50,7 +51,7 @@ Add the plugin into `next.config.js`
 // next.config.js
 module.exports = {
   experimental: {
-    swcPlugins: [["next-superjson-plugin", {}]],
+    swcPlugins: [["next-superjson2", {}]],
   },
 };
 ```
@@ -60,7 +61,7 @@ module.exports = {
 You can use the `excluded` option to exclude specific properties from serialization.
 
 ```js
-['next-superjson-plugin', { excluded: ["someProp"] }],
+['next-superjson2', { excluded: ["someProp"] }],
 ```
 
 ## How it works
