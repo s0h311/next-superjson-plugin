@@ -1,3 +1,4 @@
+<h1 align="middle">! DEPRECATED IN FAVOR OF <a href="https://github.com/blitz-js/next-superjson-plugin">next-superjson-plugin >= 0.6.1</a> !</h1>
 <h1 align="middle">Fork of Next-SuperJSON-Plugin that is compatible with SuperJSON v2</h1>
 <h2 align="middle"> Next SuperJSON Plugin</h2>
 <h3 align="middle">🔌 SuperJSON Plugin for Next.js (SWC)</h3>
